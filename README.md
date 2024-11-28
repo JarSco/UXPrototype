@@ -1,0 +1,1 @@
+This prototype comes in the form of a html package, simply dowload the source code and open the html file using any browser, project will function just like any other website once opened. Recomend opening the home.html file for best flow experience
